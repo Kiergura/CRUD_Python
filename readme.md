@@ -1,7 +1,8 @@
-My first CRUD Python project. n\
-Connects to a database using sqlite 3 to select, insert, update and delete information. n\
-It also includes functions to filter through information, make sure it is to some degree of the correct type and adjust were it would be reasonable to. n\
-Used Postman to test the functions, the script would receive json files which it would verify and execute accordingly. n\
+My first CRUD Python project.
+Connects to a database using sqlite 3 to select, insert, update and delete information.
+It also includes functions to filter through information, make sure it is to some degree of the correct type and adjust were it would be reasonable to.
+Used Postman to test the functions, the script would receive json files which it would verify and execute accordingly.
+Json examples on the "Code" section of this document.
 
 <!-- View
 Example json
